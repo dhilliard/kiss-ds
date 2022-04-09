@@ -1,0 +1,10 @@
+#
+# kiss-ds
+#
+---
+policies:
+  no_auto_import: true
+exports:
+    header-dirs : [ src ]
+    modules :
+        kiss-ds: src/kiss-ds
